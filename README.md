@@ -22,7 +22,7 @@ Die Server Client Kommunikation läuft über Post Requests.
 Die Html Webseite hat die Chart.js Library eingebunden zur Darstellung der Graphen.
 
 Probleme:
-Die Echtzeit Darstellung der Daten ist nicht konstant. Nach aktualisieren der Seite werden manchmal die Daten im Graph dargestellt, aber nicht immer. Die Funktionen der Buttons wurde Serverseitig auch noch nicht fertig gestellt.
+Die Echtzeit Darstellung der Daten ist nicht vorhanden. Nach drücken des "Okay" Knopfes werden die Daten im Graph dargestellt. Die Funktionen der Buttons wurde Serverseitig auch noch nicht fertig gestellt.
 
 
 Inbetriebnahme:
