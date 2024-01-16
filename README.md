@@ -21,4 +21,4 @@ Die Server Client Kommunikation läuft über Post Requests.
 Die Html Webseite hat die Chart.js Library eingebunden zur Darstellung der Graphen.
 
 Inbetriebnahme:
-Starten der Serverdatei mit Python auf dem Raspberry Pi. Der Client kann angeschaut werden mit der Addresse: http://192.168.239.68:5000.
+Starten des Codes auf dem ESP.Starten der Serverdatei mit Python auf dem Raspberry Pi. Der Client kann angeschaut werden mit der Addresse: http://192.168.239.68:5000.
